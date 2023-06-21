@@ -3,3 +3,4 @@ I’m interested in:
 Geographic Information System (GIS)
 Remote Sensing (RS)
 Digital Soil Mapping (DSM)
+Spatial Data Analysis and Machine Learning
